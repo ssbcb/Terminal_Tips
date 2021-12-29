@@ -13,7 +13,6 @@ This repository contain tips and tricks for Linux terminal
  
   Example: 
   ```
-
   mkdir /home/data/Experment && \
   cd /home/data/Experment ; \
   touch notes.txt"
